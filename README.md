@@ -1,60 +1,77 @@
-<h1 align="center">✨ Hakim Qubati ✨</h1>
-<p align="center">Welcome to my little corner on GitHub</p>
-
-<br>
+<h1 align="center">🎮 Player Profile: Hakim Qubati</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/xYj2bRr.gif" width="180" />
+  <img src="https://i.imgur.com/1XQZ1Zm.gif" width="160" />
 </p>
 
 ---
 
-## 🧸 Who am I?
-
-- شخص أحب البرمجة وأستمتع ببناء الأشياء بنفسي  
-- أحب التنظيم، التفاصيل، وتجربة أفكار جديدة  
-- أشتغل على مشاريع متنوعة: ويب، تصميم، وبرمجة أنظمة بسيطة  
-- أتعلم كل يوم شيء جديد وأحب أشوف شغلي يكبر قدامي  
-
----
-
-## 🌸 What I create
-
-- صفحات ويب بسيطة وجميلة  
-- أفكار لطيفة أحولها لمشاريع  
-- شغل مرتب يعبر عني  
+## 🧍 Character Info
+**Name:** Hakim Qubati  
+**Class:** Developer  
+**Region:** Middle East Server  
+**Mode:** Always Learning  
+**Guild:** Independent Devs  
 
 ---
 
-## 🎀 Tools I like
+## 🧠 Skills & Stats
 
-- HTML / CSS  
-- PHP / Laravel  
-- GitHub  
-- الأشياء اللي تسهّل الحياة على المبرمج  
-
----
-
-## 🍵 Little goals
-
-- أطور اسلوبي في الكود  
-- أعمل مشاريع أفضل  
-- أخلّي شغلي دائمًا نظيف ولطيف  
+| Attribute       | Level |
+|----------------|-------|
+| Coding          | ⭐⭐⭐⭐✩ |
+| Creativity      | ⭐⭐⭐⭐✩ |
+| Problem Solving | ⭐⭐⭐⭐⭐ |
+| Focus           | ⭐⭐⭐⭐✩ |
+| Debugging       | ⭐⭐⭐⭐✩ |
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/5c/71/2e/5c712ec6866b3716cd14a2fdbef674e8.gif" width="220" />
-</p>
+## 🛠 Skill Tree
+
+### Backend Skills
+- Laravel Framework +20 EXP  
+- PHP Combat Skills +18 EXP  
+- MySQL Queries +15 EXP  
+
+### Frontend Skills
+- HTML Builder +10 EXP  
+- CSS Styling +8 EXP  
+- JavaScript Basics +6 EXP  
+
+### Other Abilities
+- Git/GitHub Mastery +12 EXP  
+- Project Planning +9 EXP  
+- Clean Code Instinct +14 EXP  
 
 ---
 
-## 🌷 Find me here
+## 🎒 Inventory
 
-- GitHub: **@HakimAlqubati**
+- Laptop (Main Weapon)  
+- VS Code (Enhanced Edition)  
+- Laravel Artisan Blade  
+- Git Shield  
+- Coffee Potion (+5 Productivity)  
 
-<br>
+---
 
-<p align="center">
-  Made with calm vibes 🌱
-</p>
+## 🗺 Current Quests
+- Improve coding level  
+- Build new clean projects  
+- Upgrade backend power  
+- Develop web experiences  
+- Increase GitHub activity  
+
+---
+
+## 🏆 Achievements Unlocked
+- First Deploy  
+- First Feature Build  
+- 100+ Commits  
+- Survived Debug Dungeon  
+- Refactored Legacy Code  
+
+---
+
+## 🔥 Player Status
