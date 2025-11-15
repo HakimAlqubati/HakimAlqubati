@@ -1,89 +1,60 @@
-<h1 align="center">Hi, I'm Hakim Qubati</h1>
+<h1 align="center">✨ Hakim Qubati ✨</h1>
+<p align="center">Welcome to my little corner on GitHub</p>
+
+<br>
+
 <p align="center">
-  Developer • Student • ERP & POS Enthusiast • Web & 3D Jewelry Projects
+  <img src="https://i.imgur.com/xYj2bRr.gif" width="180" />
 </p>
 
 ---
 
-## 👤 About Me
+## 🧸 Who am I?
 
-- 💼 I am building and improving business solutions (ERP, POS, Inventory, and Reporting systems) tailored for restaurants and retail.
-- 🎓 Saudi-based student interested in combining technology, business, and real-world operations.
-- 💻 I enjoy working with **Laravel**, **Filament**, **Livewire**, and modern **HTML/CSS/JS** frontends.
-- 🪙 I am also developing **Auvea 3D Studio** for gold & jewelry design and exploring modern e-commerce ideas like **Djishop**.
-
----
-
-## 💼 Current Focus
-
-- Building a modular **Workbench ERP** for:
-  - HR (attendance, payroll, leaves, etc.)
-  - Inventory (FIFO, multi-unit conversions, central kitchen vs branches)
-  - POS integration (sales, refunds, payment types, card details)
-- Designing UI/UX for:
-  - **Auvea 3D Studio** (3D jewelry previews, gold-themed designs)
-  - **Djishop** (online store targeting local markets with practical logistics)
+- شخص أحب البرمجة وأستمتع ببناء الأشياء بنفسي  
+- أحب التنظيم، التفاصيل، وتجربة أفكار جديدة  
+- أشتغل على مشاريع متنوعة: ويب، تصميم، وبرمجة أنظمة بسيطة  
+- أتعلم كل يوم شيء جديد وأحب أشوف شغلي يكبر قدامي  
 
 ---
 
-## 🧩 Tech Stack
+## 🌸 What I create
 
-### Backend & Frameworks
-- PHP, Laravel, Livewire  
-- FilamentPHP  
-- RESTful APIs
-
-### Frontend
-- HTML5, CSS3, Tailwind CSS  
-- JavaScript
-
-### Databases & Tools
-- MySQL  
-- Git & GitHub  
-- Composer, NPM
+- صفحات ويب بسيطة وجميلة  
+- أفكار لطيفة أحولها لمشاريع  
+- شغل مرتب يعبر عني  
 
 ---
 
-## 📌 Featured Interests & Projects
+## 🎀 Tools I like
 
-- **Workbench ERP**
-  - Multi-branch inventory and POS integration
-  - Advanced reporting for restaurants and retail
-- **Auvea 3D Studio**
-  - Gold & jewelry design workflow
-  - 3D model previews and order management
-- **Djishop**
-  - E-commerce concept targeting local/regional markets
-  - Focus on logistics, payment options, and user experience
+- HTML / CSS  
+- PHP / Laravel  
+- GitHub  
+- الأشياء اللي تسهّل الحياة على المبرمج  
 
 ---
 
-## 📊 GitHub Stats
+## 🍵 Little goals
+
+- أطور اسلوبي في الكود  
+- أعمل مشاريع أفضل  
+- أخلّي شغلي دائمًا نظيف ولطيف  
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HakimAlqubati&show_icons=true&theme=default" alt="Hakim's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakimAlqubati&theme=default" alt="Hakim's GitHub streak" />
+  <img src="https://i.pinimg.com/originals/5c/71/2e/5c712ec6866b3716cd14a2fdbef674e8.gif" width="220" />
 </p>
 
 ---
 
-## 🌍 Languages
+## 🌷 Find me here
 
-- Arabic (Native)
-- English (Academic & Technical)
+- GitHub: **@HakimAlqubati**
 
----
+<br>
 
-## 📫 How to Reach Me
-
-- GitHub: [@HakimAlqubati](https://github.com/HakimAlqubati)
-
----
-
-### Short Note in Arabic
-
-> أنا حكيم القباطي، مطوّر مهتم ببناء أنظمة عملية تخدم الأعمال الحقيقية، مثل أنظمة نقاط البيع، المخزون، والـ ERP، بالإضافة إلى مشاريع تصميم المجوهرات ثلاثية الأبعاد والمتاجر الإلكترونية. أحاول الربط بين الدراسة، والبرمجة، وريادة الأعمال في مسار واحد متكامل.
-
+<p align="center">
+  Made with calm vibes 🌱
+</p>
