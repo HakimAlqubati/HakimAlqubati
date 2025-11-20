@@ -62,7 +62,7 @@
 
 ### 🕹️ Contribution Graph (خريطة اللعب)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=00E8FF&line=38BDF8" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HakimAlqubati&theme=react-dark&bg_color=0D1117&color=00E8FF&line=38BDF8" width="100%"/>
 </div>
 
 ---
