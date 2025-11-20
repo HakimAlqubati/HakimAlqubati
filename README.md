@@ -35,9 +35,9 @@
     <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=38BDF8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HakimAlqubati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=38BDF8" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakimAlqubati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF" />
 </div>
 
     </td>
