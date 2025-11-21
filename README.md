@@ -15,9 +15,12 @@
 ### 📜 Character Bio (عن اللاعب)
 > *"Architecting the digital framework of tomorrow."*
 
-👋 **Identity:** Hakim Qubati
+👋 **Identity:** Hakim Qubati 
+<br>
 🌍 **Realm:** Worldwide 🚀🚀
+<br>
 ⚔️ **Class:** Backend Architect & SaaS Specialist
+<br>
 🔮 **Mana Source:** Coffee & Complex Database Queries
 🎯 **Focus:** Clean Code, High Performance, Security.
 
