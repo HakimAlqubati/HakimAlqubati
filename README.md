@@ -13,7 +13,7 @@
     <td width="50%" valign="top">
 
 ### 📜 Character Bio (عن اللاعب)
-> *"Architecting the digital framework of tomorrow."*
+  *"Architecting the digital framework of tomorrow."*
 
 👋 **Identity:** Hakim Qubati 
 <br>
