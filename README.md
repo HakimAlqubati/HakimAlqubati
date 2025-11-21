@@ -16,7 +16,7 @@
 > *"Architecting the digital framework of tomorrow."*
 
 👋 **Identity:** Hakim Qubati
-🌍 **Realm:** Yemen 🇾🇪
+🌍 **Realm:** Worldwide 🚀🚀
 ⚔️ **Class:** Backend Architect & SaaS Specialist
 🔮 **Mana Source:** Coffee & Complex Database Queries
 🎯 **Focus:** Clean Code, High Performance, Security.
