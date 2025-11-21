@@ -22,7 +22,9 @@
 ⚔️ **Class:** Backend Architect & SaaS Specialist
 <br>
 🔮 **Mana Source:** Coffee & Complex Database Queries
+<br>
 🎯 **Focus:** Clean Code, High Performance, Security.
+<br>
 
 ---
 
