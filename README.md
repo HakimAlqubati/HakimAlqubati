@@ -13,13 +13,18 @@
     <td width="50%" valign="top">
 
 ### 📜 Character Bio (عن اللاعب)
-*"Architecting the digital framework of tomorrow."*
+  *"Architecting the digital framework of tomorrow."*
 
-👋 **Identity:** Hakim Qubati <br>
-🌍 **Realm:** Worldwide (Based in Yemen) 🚀 <br>
-⚔️ **Class:** Backend Architect & SaaS Specialist <br>
-🔮 **Mana Source:** Coffee & Complex Database Queries <br>
-🎯 **Focus:** Clean Code, High Performance, Security. <br>
+👋 **Identity:** Hakim Qubati 
+<br>
+🌍 **Realm:** Worldwide 🚀🚀
+<br>
+⚔️ **Class:** Backend Architect & SaaS Specialist
+<br>
+🔮 **Mana Source:** Coffee & Complex Database Queries
+<br>
+🎯 **Focus:** Clean Code, High Performance, Security.
+<br>
 
 ---
 
@@ -33,12 +38,13 @@
 
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=HakimAlqubati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=38BDF8" alt="Hakim's Stats" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakimAlqubati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF" alt="Top Languages" />
-      </div>
-    </td>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HakimAlqubati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=38BDF8" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakimAlqubati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF" />
+</div>
+ 
   </tr>
 </table>
 
